@@ -1,0 +1,38 @@
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\UrTBot.Bot.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\UrTBot.Properties.Resources.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\bin\Debug\UrTBot.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\bin\Debug\UrTBot.pdb
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\UrTBot.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\UrTBot.pdb
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrTBot\obj\x86\Debug\UrTBot.RCON.resources
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.exe
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\bin\Debug\UrTBot.exe
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\bin\Debug\UrTBot.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Bot.resources
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Properties.Resources.resources
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.RCON.resources
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\bin\Debug\UrTBot.exe.config
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Levels.resources
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Gear.resources
+C:\Users\Hiroyuki\Documents\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.PlayerPositions.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\bin\Debug\UrTBot.exe.config
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\bin\Debug\UrTBot.exe
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\bin\Debug\UrTBot.pdb
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.csprojAssemblyReference.cache
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Bot.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Gear.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Levels.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.PlayerPositions.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.Properties.Resources.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.RCON.resources
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.csproj.GenerateResource.cache
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.csproj.CoreCompileInputs.cache
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.exe
+D:\Users\Louis\Documents\Projects\Codes\UrTBot\UrTBot\obj\x86\Debug\UrTBot.pdb
